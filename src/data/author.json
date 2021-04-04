@@ -4,20 +4,16 @@
     "avatar": "/assets/images/avatar2.jpg",
     "social": {
         "twitter": {
-            "name": "mxbck",
-            "url": "https://twitter.com/mxbck"
+            "name": "sabahang",
+            "url": "https://twitter.com/SabaAhang"
         },
         "github": {
-            "name": "maxboeck",
-            "url": "https://github.com/maxboeck"
+            "name": "sabahang",
+            "url": "https://github.com/sabahang"
         },
         "codepen": {
-            "name": "mxbck",
-            "url": "https://codepen.io/mxbck/"
-        },
-        "notist": {
-            "name": "mxb",
-            "url": "https://noti.st/mxb"
+            "name": "sabahang",
+            "url": "https://codepen.io/sabahang"
         }
     }
 }
