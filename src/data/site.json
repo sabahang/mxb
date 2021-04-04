@@ -1,9 +1,9 @@
 {
-    "title": "Max Böck",
-    "description": "Max Böck is a professional front-end developer based in Vienna, Austria.",
+    "title": "sabahang",
+    "description": "sabahang is a professional front-end developer.",
     "lang": "en",
     "locale": "en_US",
-    "domain": "mxb.dev",
-    "url": "https://mxb.dev",
-    "repo": "https://github.com/maxboeck/mxb"
+    "domain": "netlify.app",
+    "url": "https://heuristic-shirley-82e170.netlify.app/",
+    "repo": "https://github.com/sabahang/mxb"
 }
